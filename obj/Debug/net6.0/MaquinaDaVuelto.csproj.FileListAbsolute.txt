@@ -1,0 +1,15 @@
+C:\Users\leco8\OneDrive\Escritorio\Sotfware-coviello\2do-Año\Programacion2\C#\MaquinaDaVuelto\bin\Debug\net6.0\MaquinaDaVuelto.exe
+C:\Users\leco8\OneDrive\Escritorio\Sotfware-coviello\2do-Año\Programacion2\C#\MaquinaDaVuelto\bin\Debug\net6.0\MaquinaDaVuelto.deps.json
+C:\Users\leco8\OneDrive\Escritorio\Sotfware-coviello\2do-Año\Programacion2\C#\MaquinaDaVuelto\bin\Debug\net6.0\MaquinaDaVuelto.runtimeconfig.json
+C:\Users\leco8\OneDrive\Escritorio\Sotfware-coviello\2do-Año\Programacion2\C#\MaquinaDaVuelto\bin\Debug\net6.0\MaquinaDaVuelto.dll
+C:\Users\leco8\OneDrive\Escritorio\Sotfware-coviello\2do-Año\Programacion2\C#\MaquinaDaVuelto\bin\Debug\net6.0\MaquinaDaVuelto.pdb
+C:\Users\leco8\OneDrive\Escritorio\Sotfware-coviello\2do-Año\Programacion2\C#\MaquinaDaVuelto\obj\Debug\net6.0\MaquinaDaVuelto.csproj.AssemblyReference.cache
+C:\Users\leco8\OneDrive\Escritorio\Sotfware-coviello\2do-Año\Programacion2\C#\MaquinaDaVuelto\obj\Debug\net6.0\MaquinaDaVuelto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leco8\OneDrive\Escritorio\Sotfware-coviello\2do-Año\Programacion2\C#\MaquinaDaVuelto\obj\Debug\net6.0\MaquinaDaVuelto.AssemblyInfoInputs.cache
+C:\Users\leco8\OneDrive\Escritorio\Sotfware-coviello\2do-Año\Programacion2\C#\MaquinaDaVuelto\obj\Debug\net6.0\MaquinaDaVuelto.AssemblyInfo.cs
+C:\Users\leco8\OneDrive\Escritorio\Sotfware-coviello\2do-Año\Programacion2\C#\MaquinaDaVuelto\obj\Debug\net6.0\MaquinaDaVuelto.csproj.CoreCompileInputs.cache
+C:\Users\leco8\OneDrive\Escritorio\Sotfware-coviello\2do-Año\Programacion2\C#\MaquinaDaVuelto\obj\Debug\net6.0\MaquinaDaVuelto.dll
+C:\Users\leco8\OneDrive\Escritorio\Sotfware-coviello\2do-Año\Programacion2\C#\MaquinaDaVuelto\obj\Debug\net6.0\refint\MaquinaDaVuelto.dll
+C:\Users\leco8\OneDrive\Escritorio\Sotfware-coviello\2do-Año\Programacion2\C#\MaquinaDaVuelto\obj\Debug\net6.0\MaquinaDaVuelto.pdb
+C:\Users\leco8\OneDrive\Escritorio\Sotfware-coviello\2do-Año\Programacion2\C#\MaquinaDaVuelto\obj\Debug\net6.0\MaquinaDaVuelto.genruntimeconfig.cache
+C:\Users\leco8\OneDrive\Escritorio\Sotfware-coviello\2do-Año\Programacion2\C#\MaquinaDaVuelto\obj\Debug\net6.0\ref\MaquinaDaVuelto.dll
